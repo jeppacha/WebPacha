@@ -4,16 +4,25 @@
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-    padding-left: 40px;
-    width: 25%;
+    padding-left: 10px;
+    width: 75%;
     overflow-x: hidden;
     overflow-y: hidden;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-bottom: 15px;
+    margin-left: auto;
     clear: none;
+    text-align: center;
+    top: 10px;
+    -webkit-box-shadow: -3px 1px 12px 13px #C7C7C7;
+    box-shadow: -3px 1px 12px 13px #C7C7C7;
+    border-radius: 28px;
+    bottom: 51px;
 }
+.logo .logo3 .colores {
+}
+
 .menu ul li a {
     color: #F3071D;
     float: left;
@@ -54,6 +63,7 @@
     width: 100%;
     overflow-x: hidden;
     overflow-y: hidden;
+    background-color: #FAD854;
 }
 .cuerpo .contenido {
     width: 100%;
@@ -86,4 +96,77 @@
     background-color: rgba(253,253,253,0.50);
     padding-top: 5px;
     padding-bottom: 5px;
+}
+.cabecera .logo #canvas {
+    width: 100%;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.cuerpo .contenido .natura {
+    max-width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    text-align: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.contenido .natura p {
+    color: #126CE7;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    margin-right: 26px;
+}
+.contenido .natura p {
+
+
+}
+.primera {
+    margin-top: 5px;
+
+}
+.segunda {
+    margin-top: 5px;
+}
+.tercera {
+    margin-top: 5px;
+}
+.separa1 {
+    max-width: 1194px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.logo p .pacha {
+    margin-left: 5px;
+    float: left;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+}
+.logo p .en {
+    margin-top: 50px;
+}
+
+
+.pacha {
+}
+.en {
+}
+.colores {
+}
+.color {
+}
+.logo3 {
+    margin-bottom: auto;
+    text-align: center;
+}
+.logo2 {
+    margin-top: 35px;
+    text-align: center;
 }
